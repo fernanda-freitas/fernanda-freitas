@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Fernanda and welcome to my GitHub!
 
-I’m a UI/UX Designer who creates digital interfaces, prototypes and, now, front-ends it! 🚀 
+I’m an UI/UX Designer who creates digital interfaces, prototypes and, now, front-ends it! 🚀 
 I'm currently perfecting my full stack dev skills with Le Wagon's super imersive Bootcamp. This is the learning core: Ruby, SQLite Postres sql, JavaScript (ES6, AJAX, HTML, CSS (SCSS), Git & Github, Heroku.
 
 <!--
