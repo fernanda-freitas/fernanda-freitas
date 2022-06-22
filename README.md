@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Fernanda and welcome to my GitHub!
 
-I’m an UI/UX Designer who creates digital interfaces, prototypes and, now, front-ends it! 🚀 
+I’m a Full-Stack Dev student with years of experience in Ux/Ui Design (usability, wireframes, digital interfaces, prototypes and, now, develpment!) 🚀 
 
-I'm currently perfecting my full stack dev skills with <a href="https://www.lewagon.com/" target="_blank">Le Wagon's</a> super imersive Bootcamp. This is the core of what I've beeng learning: Ruby, SQLite Postres sql, JavaScript (ES6, AJAX, HTML, CSS (SCSS), Git & Github, Heroku.
+I'm currently perfecting my Full-stack dev skills with <a href="https://www.lewagon.com/" target="_blank">Le Wagon's</a> super imersive Bootcamp. This is the core of what I've beeng learning: Ruby, SQLite Postres sql, JavaScript (ES6, AJAX, HTML, CSS (SCSS), Git & Github, Heroku.
 
 <!--
 **fernanda-freitas/fernanda-freitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
