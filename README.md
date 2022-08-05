@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fernanda and welcome to my GitHub!
+### Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Fernanda and welcome to my GitHub!
 
 I’m a Full-Stack Dev student with years of experience in Ux/Ui Design (usability, wireframes, digital interfaces, prototypes and, now, develpment!) 🚀 
 
